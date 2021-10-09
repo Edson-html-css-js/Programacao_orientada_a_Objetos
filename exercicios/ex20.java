@@ -1,4 +1,4 @@
-public class ex18 { 
+public class ex20 { 
 
     public static void main(String args[]) { 
 
@@ -10,23 +10,17 @@ public class ex18 {
             System.out.println("***");
             System.out.println("****");
             System.out.println("******");
+            System.out.println("******");
+            System.out.println("****");
+            System.out.println("***");
+            System.out.println("**");
+            System.out.println("*");
     
            }
             
 
      }
 
-    // for(int i= 0; i < 5;  i++){
-    //     for(int a = 0; a < 5; a++){
-    //         System.out.println("*");
-    //     }
-    // }
-
-      
-
-        
-
     }
-
 
 }
