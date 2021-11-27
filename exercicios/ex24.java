@@ -1,15 +1,15 @@
 import java.util.Scanner;
 
-public class ex23 { 
+public class ex24 { 
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
 
-         int[] pontuacoes = new int[6];
+         int[] pontuacoes = new int[10];
 
             for (int i = 0; i < pontuacoes.length; i++){
 
-                System.out.println("Digite a pontuacao ");
+                System.out.println("Digite um numero ");
                 pontuacoes[i] = entrada.nextInt();
             }
 
